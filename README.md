@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I don't believe in an afterlife, so I don't have to spend my whole life fearing hell, or fearing heaven even more. For whatever the tortures of hell, I think the boredom of heaven would be even worse."
+💬 Quote of the Day: "Thinking should become your capital asset, no matter whatever ups and downs you come across in your life."
 <!-- end quote -->
 
 # GitHub Actions Demo
