@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "If you can't be funny, be interesting."
+💬 Quote of the Day: "Attention to health is life's greatest hindrance."
 <!-- end quote -->
 
 # GitHub Actions Demo
