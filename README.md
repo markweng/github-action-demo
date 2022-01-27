@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "In between goals is a thing called life, that has to be lived and enjoyed."
+💬 Quote of the Day: "The grand essentials to happiness in this life are something to do, something to love and something to hope for."
 <!-- end quote -->
 
 # GitHub Actions Demo
