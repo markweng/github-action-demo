@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The grand essentials to happiness in this life are something to do, something to love and something to hope for."
+💬 Quote of the Day: "If justice is removed.. The great, the immense fabric of human society.. Must in a moment crumble into atoms."
 <!-- end quote -->
 
 # GitHub Actions Demo
