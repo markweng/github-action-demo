@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I learned that focus is key, not just in running a company, but in your personal life as well"
+💬 Quote of the Day: "We make a living by what we get, but we make a life by what we give."
 <!-- end quote -->
 
 # GitHub Actions Demo
