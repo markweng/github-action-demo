@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life."
+💬 Quote of the Day: "Embrace the cracks in your life and the breaks in your heart as places into which divine light can shine."
 <!-- end quote -->
 
 # GitHub Actions Demo
