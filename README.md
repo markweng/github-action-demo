@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Embrace the cracks in your life and the breaks in your heart as places into which divine light can shine."
+💬 Quote of the Day: "Life itself still remains a very effective therapist."
 <!-- end quote -->
 
 # GitHub Actions Demo
