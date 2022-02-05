@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "There are days you are going to feel sad. That is nothing you can choose. But you can make stuff. Make films. Draw. Write. It'll make a world of difference."
+💬 Quote of the Day: "This mystery of life is what really is at the heart of our concern, because we say it is a gift so stupendous, so magnificent, so mysterious that no one but God has any rights over it."
 <!-- end quote -->
 
 # GitHub Actions Demo
