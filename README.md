@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "This mystery of life is what really is at the heart of our concern, because we say it is a gift so stupendous, so magnificent, so mysterious that no one but God has any rights over it."
+💬 Quote of the Day: "I would rather live and love where death is king than have eternal life where love is not."
 <!-- end quote -->
 
 # GitHub Actions Demo
