@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I would rather live and love where death is king than have eternal life where love is not."
+💬 Quote of the Day: "The quality of a person's life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor."
 <!-- end quote -->
 
 # GitHub Actions Demo
