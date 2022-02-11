@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Those who hope for no other life are dead even for this"
+💬 Quote of the Day: "Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!"
 <!-- end quote -->
 
 # GitHub Actions Demo
