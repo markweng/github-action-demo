@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "There's a crack (or cracks) in everyone, that's how the light of God gets in."
+💬 Quote of the Day: "Life is like playing a violin solo in public and learning the instrument as one goes on."
 <!-- end quote -->
 
 # GitHub Actions Demo
