@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is like playing a violin solo in public and learning the instrument as one goes on."
+💬 Quote of the Day: "Life is either a daring adventure or nothing."
 <!-- end quote -->
 
 # GitHub Actions Demo
