@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is either a daring adventure or nothing."
+💬 Quote of the Day: "You can't really be strong until you see a funny side to things."
 <!-- end quote -->
 
 # GitHub Actions Demo
