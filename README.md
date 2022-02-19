@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "You can't really be strong until you see a funny side to things."
+💬 Quote of the Day: "Reverence for life affords me my fundamental principle of morality."
 <!-- end quote -->
 
 # GitHub Actions Demo
