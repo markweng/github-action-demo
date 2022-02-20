@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Reverence for life affords me my fundamental principle of morality."
+💬 Quote of the Day: "Funny how just when you think life can't possibly get any worse it suddenly does."
 <!-- end quote -->
 
 # GitHub Actions Demo
