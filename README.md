@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Funny how just when you think life can't possibly get any worse it suddenly does."
+💬 Quote of the Day: "Our mind is all we've got. Not that it won't lead us astray sometimes, but we still have to analyze things out within ourselves."
 <!-- end quote -->
 
 # GitHub Actions Demo
