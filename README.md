@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Our mind is all we've got. Not that it won't lead us astray sometimes, but we still have to analyze things out within ourselves."
+💬 Quote of the Day: "Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb."
 <!-- end quote -->
 
 # GitHub Actions Demo
