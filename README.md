@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "What you leave behind is not what is engraved in stone monuments, but what is woven into the lives of others."
+💬 Quote of the Day: "Never waste your time trying to explain who you are to people who are committed to misunderstanding you."
 <!-- end quote -->
 
 # GitHub Actions Demo
