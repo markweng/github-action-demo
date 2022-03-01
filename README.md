@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Growing older is not upsetting; being perceived as old is."
+💬 Quote of the Day: "Character develops itself in the stream of life."
 <!-- end quote -->
 
 # GitHub Actions Demo
