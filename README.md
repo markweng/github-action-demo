@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Time is something you can't replace."
+💬 Quote of the Day: "We know how we were born, but know not how we will die."
 <!-- end quote -->
 
 # GitHub Actions Demo
