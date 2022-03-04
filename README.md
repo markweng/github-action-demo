@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "We know how we were born, but know not how we will die."
+💬 Quote of the Day: "Closed systems run down and get more chaotic over time. Always get better by being 'open' to outside energy and templates of better ways to function."
 <!-- end quote -->
 
 # GitHub Actions Demo
