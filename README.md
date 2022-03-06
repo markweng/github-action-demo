@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The only religious way to think of death is as a part and parcel of life to regard it, with the understanding and the emotions, as the inviolable condition of life."
+💬 Quote of the Day: "To avoid criticism do nothing, say nothing, be nothing."
 <!-- end quote -->
 
 # GitHub Actions Demo
