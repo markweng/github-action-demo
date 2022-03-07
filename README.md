@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "To avoid criticism do nothing, say nothing, be nothing."
+💬 Quote of the Day: "Some goals are not going to fulfill you. Choose goals that you value and care about."
 <!-- end quote -->
 
 # GitHub Actions Demo
