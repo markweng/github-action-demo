@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Some goals are not going to fulfill you. Choose goals that you value and care about."
+💬 Quote of the Day: "Perpetual inspiration is as necessary to the life of goodness, holiness and happiness as perpetual respiration is necessary to animal life."
 <!-- end quote -->
 
 # GitHub Actions Demo
