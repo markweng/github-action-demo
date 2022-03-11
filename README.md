@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "There are days you are going to feel sad. That is nothing you can choose. But you can make stuff. Make films. Draw. Write. It'll make a world of difference."
+💬 Quote of the Day: "The show is 'Fix My Life!' Get it? Life. I do not fix people."
 <!-- end quote -->
 
 # GitHub Actions Demo
