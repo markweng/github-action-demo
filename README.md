@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Never regret. If it's good, it's wonderful. If it's bad, it's experience."
+💬 Quote of the Day: "The more we live by our intellect, the less we understand the meaning of life."
 <!-- end quote -->
 
 # GitHub Actions Demo
