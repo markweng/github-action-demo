@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The more we live by our intellect, the less we understand the meaning of life."
+💬 Quote of the Day: "I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose."
 <!-- end quote -->
 
 # GitHub Actions Demo
