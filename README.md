@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Man's main task in life is to give birth to himself, to become what he potentially is. The most important product of his effort is his own personality."
+💬 Quote of the Day: "Don't count the days; make the days count."
 <!-- end quote -->
 
 # GitHub Actions Demo
