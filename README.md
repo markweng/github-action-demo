@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Uncertainty and mystery are energies of life. Don't let them scare you unduly, for they keep boredom at bay and spark creativity."
+💬 Quote of the Day: "Mistakes are part of the dues one pays for a full life."
 <!-- end quote -->
 
 # GitHub Actions Demo
