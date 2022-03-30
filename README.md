@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I think midlife crisis is just a point where people's careers have reached some plateau and they have to reflect on their personal relationships."
+💬 Quote of the Day: "Respect life, Revere life. There is nothing more holy than life, nothing more divine than life."
 <!-- end quote -->
 
 # GitHub Actions Demo
