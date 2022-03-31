@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Respect life, Revere life. There is nothing more holy than life, nothing more divine than life."
+💬 Quote of the Day: "I'm not a one-issue person."
 <!-- end quote -->
 
 # GitHub Actions Demo
