@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "You only have to do a very few things right in your life so long as you don't do too many things wrong."
+💬 Quote of the Day: "It is those of us who have been broken that become experts at mending."
 <!-- end quote -->
 
 # GitHub Actions Demo
