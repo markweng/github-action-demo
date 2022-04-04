@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I believe life is a series of near misses. A lot of what we ascribe to luck is not luck at all. It's seizing the day and accepting responsibility for your future. It's seeing what other people don't see And pursuing that vision."
+💬 Quote of the Day: "Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life."
 <!-- end quote -->
 
 # GitHub Actions Demo
