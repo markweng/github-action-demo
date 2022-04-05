@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life."
+💬 Quote of the Day: "One day it just clicks.. You realize what's important and what isn't. You learn to care less about what other people think of you and more about what you think of yourself. You realize how far you've come and you remember when you thought things were such a mess that they'd never recover. And then you smile. You smile because you are truly proud of yourself and the person you've fought to become."
 <!-- end quote -->
 
 # GitHub Actions Demo
