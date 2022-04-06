@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "One day it just clicks.. You realize what's important and what isn't. You learn to care less about what other people think of you and more about what you think of yourself. You realize how far you've come and you remember when you thought things were such a mess that they'd never recover. And then you smile. You smile because you are truly proud of yourself and the person you've fought to become."
+💬 Quote of the Day: "What a blessing that God allows a life to come through your body, and then allows you to place that body in a body bag and take it out. I had to say that there's a magnificent something that God has for me to do, to give me that level of completion. That level of experience. It's unspeakable."
 <!-- end quote -->
 
 # GitHub Actions Demo
