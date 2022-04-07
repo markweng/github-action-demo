@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "What a blessing that God allows a life to come through your body, and then allows you to place that body in a body bag and take it out. I had to say that there's a magnificent something that God has for me to do, to give me that level of completion. That level of experience. It's unspeakable."
+💬 Quote of the Day: "If our lives in education have any meaning or significance, it will be in our reading the signs of the times and in educating the young of our times in the visions and values that will civilize and make for reasonable human progress and lasting peace on earth."
 <!-- end quote -->
 
 # GitHub Actions Demo
