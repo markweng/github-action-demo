@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I would rather live in a world where my life is surrounded by mystery than live in a world so small that my mind could comprehend it."
+💬 Quote of the Day: "Do you want to achieve something or do you just want to make money? Asked a nearby man in a white shirt to another man in a striped shirt. I waited for the answer as I slowly walked past them. Why is it an either or question? The man in the striped shirt finally murmured philosophically under a sip of beer. They both stood there looking at each other in thought."
 <!-- end quote -->
 
 # GitHub Actions Demo
