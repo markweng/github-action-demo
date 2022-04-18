@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe."
+💬 Quote of the Day: "When a noble life has prepared old age, it is not decline that it reveals, but the first days of immortality."
 <!-- end quote -->
 
 # GitHub Actions Demo
