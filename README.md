@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "There are some who complain most energetically and inconsolably of any, because they are, as they say, doing their duty. I also have in my mind that seemingly wealthy, but most terribly impoverished class of all, who have accumulated dross, but know not how to use it, or get rid of it, and thus have forged their own golden or silver fetters."
+💬 Quote of the Day: "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence."
 <!-- end quote -->
 
 # GitHub Actions Demo
