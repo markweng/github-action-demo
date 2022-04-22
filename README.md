@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The problem with the world is that the intelligent people are full of doubts, while the stupid ones are full of confidence."
+💬 Quote of the Day: "The more relaxed you are, the better you are at everything--the better you are with your loved ones, the better you are with enemies, the better you are at your job, the better you are with yourself."
 <!-- end quote -->
 
 # GitHub Actions Demo
