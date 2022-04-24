@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "People should pursue what they're passionate about. That will make them happier than pretty much anything else."
+💬 Quote of the Day: "Believe that life is worth living and your belief will help create the fact."
 <!-- end quote -->
 
 # GitHub Actions Demo
