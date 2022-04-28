@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I believe life is an intelligent thing that things aren't random!"
+💬 Quote of the Day: "If you must play, decide on three things at the start: the rules of the game, the stakes, and the quitting time."
 <!-- end quote -->
 
 # GitHub Actions Demo
