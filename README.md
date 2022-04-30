@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "If you must play, decide on three things at the start: the rules of the game, the stakes, and the quitting time."
+💬 Quote of the Day: "Once a man has made a commitment to a way of life, he puts the greatest strength in the world behind him. It's something we call heart power. Once a man has made his commitment, nothing will stop him short of success."
 <!-- end quote -->
 
 # GitHub Actions Demo
