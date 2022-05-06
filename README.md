@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "This is not a dress rehearsal; this is your life."
+💬 Quote of the Day: "A man who views the world the same at 50 as he did at 20 has wasted 30 years of his life."
 <!-- end quote -->
 
 # GitHub Actions Demo
