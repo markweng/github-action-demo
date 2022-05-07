@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "A man who views the world the same at 50 as he did at 20 has wasted 30 years of his life."
+💬 Quote of the Day: "Happiness, that grand mistress of the ceremonies in the dance of life, impels us through all its mazes and meanderings, but leads none of us by the same route."
 <!-- end quote -->
 
 # GitHub Actions Demo
