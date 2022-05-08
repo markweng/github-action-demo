@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Happiness, that grand mistress of the ceremonies in the dance of life, impels us through all its mazes and meanderings, but leads none of us by the same route."
+💬 Quote of the Day: "My father never kissed me, hugged me or told me that he loved me. As my only living parent, he became the filter through which I saw myself, the possibilities for my life, the world and all men. He was a conflicted and dark filter."
 <!-- end quote -->
 
 # GitHub Actions Demo
