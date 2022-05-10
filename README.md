@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The main thing is to be moved, to love, to hope, to tremble, to live."
+💬 Quote of the Day: "Boundaries are your responsibility. You decide what is and isn't allowed in your life."
 <!-- end quote -->
 
 # GitHub Actions Demo
