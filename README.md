@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Boundaries are your responsibility. You decide what is and isn't allowed in your life."
+💬 Quote of the Day: "A person starts to live when he can live outside himself."
 <!-- end quote -->
 
 # GitHub Actions Demo
