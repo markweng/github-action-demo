@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "A person starts to live when he can live outside himself."
+💬 Quote of the Day: "It's a wonderful thing to be optimistic. It keeps you healthy and it keeps you resilient."
 <!-- end quote -->
 
 # GitHub Actions Demo
