@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "It's a wonderful thing to be optimistic. It keeps you healthy and it keeps you resilient."
+💬 Quote of the Day: "Life is something to do when you can't get to sleep."
 <!-- end quote -->
 
 # GitHub Actions Demo
