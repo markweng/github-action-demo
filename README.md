@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I sent one e-mail in my life. I sent it to Jeff Raikes at Microsoft, and it ended up in court in Minneapolis, so I am one for one."
+💬 Quote of the Day: "It's the simple things in life that are the most extraordinary; only wise men are able to understand them."
 <!-- end quote -->
 
 # GitHub Actions Demo
