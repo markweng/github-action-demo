@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Preparation for old age should begin not later than one's teens. A life which is empty of purpose until 65 will not suddenly become filled on retirement."
+💬 Quote of the Day: "Basically, when you get to my age, you'll really measure your success in life by how many of the people you want to have love you actually do love you."
 <!-- end quote -->
 
 # GitHub Actions Demo
