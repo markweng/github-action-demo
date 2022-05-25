@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Basically, when you get to my age, you'll really measure your success in life by how many of the people you want to have love you actually do love you."
+💬 Quote of the Day: "Life is like a camera: just focus on what is important, capture good times, develop from negative, and if things do not work out, take another shot!"
 <!-- end quote -->
 
 # GitHub Actions Demo
