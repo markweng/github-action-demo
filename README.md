@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Don't shy away from earning, but don't sell away your soul."
+💬 Quote of the Day: "The secret of success in life is for a man to be ready for his opportunity when it comes."
 <!-- end quote -->
 
 # GitHub Actions Demo
