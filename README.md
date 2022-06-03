@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I always advice people - Don't wait ! Do something when you are young, when you have no responsibilities. Invest time in yourself to have great Experiences that are going to enrich you, then you can't possibly lose."
+💬 Quote of the Day: "Love is the immortal flow of energy that nourishes, extends and preserves. Its eternal goal is life."
 <!-- end quote -->
 
 # GitHub Actions Demo
