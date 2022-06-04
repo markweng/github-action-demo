@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Love is the immortal flow of energy that nourishes, extends and preserves. Its eternal goal is life."
+💬 Quote of the Day: "I wasn't ready for fame and all that brings to your life. It was an amazing experience, but so overwhelming, because no one can tell you beforehand when it will happen or how it will impact you. So no one can tell you how to handle it, being stopped everywhere you go because people saw you on 'Oprah.' It took me over, and I wasn't ready."
 <!-- end quote -->
 
 # GitHub Actions Demo
