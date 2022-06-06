@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life has meaning only if one barters it day by day for something other than itself."
+💬 Quote of the Day: "The thirst for more is not evil itself, but it is often the gateway to something that is."
 <!-- end quote -->
 
 # GitHub Actions Demo
