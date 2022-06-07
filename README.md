@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The thirst for more is not evil itself, but it is often the gateway to something that is."
+💬 Quote of the Day: "This I conceive to be the chemical function of humor: to change the character of our thought."
 <!-- end quote -->
 
 # GitHub Actions Demo
