@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "This I conceive to be the chemical function of humor: to change the character of our thought."
+💬 Quote of the Day: "When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life."
 <!-- end quote -->
 
 # GitHub Actions Demo
