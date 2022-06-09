@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "When you recover or discover something that nourishes your soul and brings joy, care enough about yourself to make room for it in your life."
+💬 Quote of the Day: "I want to be in the arena. I want to be brave with my life. And when we make the choice to dare greatly, we sign up to get our asses kicked. We can choose courage or we can choose comfort, but we can't have both. Not at the same time."
 <!-- end quote -->
 
 # GitHub Actions Demo
