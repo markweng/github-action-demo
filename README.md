@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I want to be in the arena. I want to be brave with my life. And when we make the choice to dare greatly, we sign up to get our asses kicked. We can choose courage or we can choose comfort, but we can't have both. Not at the same time."
+💬 Quote of the Day: "The remedy for life's broken pieces is not classes, workshops or books. Don't try to heal the broken pieces. Just forgive."
 <!-- end quote -->
 
 # GitHub Actions Demo
