@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Never be proud nor depressed about for what you are and the position you hold in the society. Remember after the game of chess Kings and Pawns go in the same box."
+💬 Quote of the Day: "Some people's developmental path has not equipped them to stand up and let go of something."
 <!-- end quote -->
 
 # GitHub Actions Demo
