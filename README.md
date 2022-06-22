@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Society is like a large piece of frozen water; and skating well is the great art of social life."
+💬 Quote of the Day: "Do you want to achieve something or do you just want to make money? Asked a nearby man in a white shirt to another man in a striped shirt. I waited for the answer as I slowly walked past them. Why is it an either or question? The man in the striped shirt finally murmured philosophically under a sip of beer. They both stood there looking at each other in thought."
 <!-- end quote -->
 
 # GitHub Actions Demo
