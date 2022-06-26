@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life."
+💬 Quote of the Day: "The quality of a person's life is in direct proportion to their commitment to excellence, regardless of their chosen field of endeavor."
 <!-- end quote -->
 
 # GitHub Actions Demo
