@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The art of living is more like wrestling than dancing."
+💬 Quote of the Day: "Mistakes are part of the dues one pays for a full life."
 <!-- end quote -->
 
 # GitHub Actions Demo
