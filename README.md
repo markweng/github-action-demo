@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Mistakes are part of the dues one pays for a full life."
+💬 Quote of the Day: "Live Your Life By an Inner Scorecard."
 <!-- end quote -->
 
 # GitHub Actions Demo
