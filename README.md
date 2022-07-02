@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Live Your Life By an Inner Scorecard."
+💬 Quote of the Day: "Business underlies everything in our national life, including our spiritual life. Witness the fact that in the Lord's Prayer, the first petition is for daily bread. No one can worship God or love his neighbor on an empty stomach."
 <!-- end quote -->
 
 # GitHub Actions Demo
