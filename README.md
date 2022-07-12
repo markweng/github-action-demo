@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Too often we underestimate the power of a touch, a smile, a kind word, a listening ear, an honest compliment, or the smallest act of caring, all of which have the potential to turn a life around."
+💬 Quote of the Day: "About all you can do in life is be who you are. Some people will love you for you. Most will love you for what you can do for them, and some won't like you at all."
 <!-- end quote -->
 
 # GitHub Actions Demo
