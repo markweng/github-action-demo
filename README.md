@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "About all you can do in life is be who you are. Some people will love you for you. Most will love you for what you can do for them, and some won't like you at all."
+💬 Quote of the Day: "The remedy for life's broken pieces is not classes, workshops or books. Don't try to heal the broken pieces. Just forgive."
 <!-- end quote -->
 
 # GitHub Actions Demo
