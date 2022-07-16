@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The moment we start weighing our every word, action and appearance on whether people will accept it is the moment we become their slave."
+💬 Quote of the Day: "Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler."
 <!-- end quote -->
 
 # GitHub Actions Demo
