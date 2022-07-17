@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Go confidently in the direction of your dreams. Live the life you've imagined. As you simplify your life, the laws of the universe will be simpler."
+💬 Quote of the Day: "Life is a series of collisions with the future; it is not the sum of what we have been, but what we yearn to be."
 <!-- end quote -->
 
 # GitHub Actions Demo
