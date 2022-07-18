@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is a series of collisions with the future; it is not the sum of what we have been, but what we yearn to be."
+💬 Quote of the Day: "I don't have to chase extraordinary moments to find happiness, it's right in front of me if I'm paying attention and practicing gratitude."
 <!-- end quote -->
 
 # GitHub Actions Demo
