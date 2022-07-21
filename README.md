@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "There's no difference between a pessimist who says, "Oh, it's hopeless, so don't bother doing anything", and an optimist who says, "Don't bother doing anything, it's going to turn out fine anyway". Either way, nothing happens."
+💬 Quote of the Day: "This is the highest wisdom that I own; freedom and life are earned by those alone who conquer them each day anew."
 <!-- end quote -->
 
 # GitHub Actions Demo
