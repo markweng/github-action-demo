@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "This is the highest wisdom that I own; freedom and life are earned by those alone who conquer them each day anew."
+💬 Quote of the Day: "Every human being must have boundaries in order to have successful relationships or a successful performance in life."
 <!-- end quote -->
 
 # GitHub Actions Demo
