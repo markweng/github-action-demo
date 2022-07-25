@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "A man who views the world the same at 50 as he did at 20 has wasted 30 years of his life."
+💬 Quote of the Day: "In our life there is a single color, as on an artist's palette, which provides the meaning of life and art. It is the color of love."
 <!-- end quote -->
 
 # GitHub Actions Demo
