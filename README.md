@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "A life of reaction is a life of slavery, intellectually and spiritually. One must fight for a life of action, not reaction."
+💬 Quote of the Day: "I would rather live in a world where my life is surrounded by mystery than live in a world so small that my mind could comprehend it."
 <!-- end quote -->
 
 # GitHub Actions Demo
