@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Some people's developmental path has not equipped them to stand up and let go of something."
+💬 Quote of the Day: "It is those of us who have been broken that become experts at mending."
 <!-- end quote -->
 
 # GitHub Actions Demo
