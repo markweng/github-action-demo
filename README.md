@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "It is those of us who have been broken that become experts at mending."
+💬 Quote of the Day: "A sense of humor.. Is needed armor. Joy in one's heart and some laughter on one's lips is a sign that the person down deep has a pretty good grasp of life."
 <!-- end quote -->
 
 # GitHub Actions Demo
