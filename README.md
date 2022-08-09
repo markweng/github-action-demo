@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The fear of life is the favorite disease of the 20th century."
+💬 Quote of the Day: "Probable impossibilities are to be preferred to improbable possibilities."
 <!-- end quote -->
 
 # GitHub Actions Demo
