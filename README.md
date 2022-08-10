@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Probable impossibilities are to be preferred to improbable possibilities."
+💬 Quote of the Day: "Life is 10% what happens to us and 90% how we react to it."
 <!-- end quote -->
 
 # GitHub Actions Demo
