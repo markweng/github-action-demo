@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is 10% what happens to us and 90% how we react to it."
+💬 Quote of the Day: "When making your choice in life, do not neglect to live."
 <!-- end quote -->
 
 # GitHub Actions Demo
