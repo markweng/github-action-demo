@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "When making your choice in life, do not neglect to live."
+💬 Quote of the Day: "It's the simple things in life that are the most extraordinary; only wise men are able to understand them."
 <!-- end quote -->
 
 # GitHub Actions Demo
