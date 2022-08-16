@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The human mind and body are truly extraordinary. They are the quintessence of excellence in motion. We talk, touch, see, hear, taste, smell, and feel. We dream, aspire, and become. All that we are is mind and body and spirit-that is our universe."
+💬 Quote of the Day: "Man's main task in life is to give birth to himself, to become what he potentially is. The most important product of his effort is his own personality."
 <!-- end quote -->
 
 # GitHub Actions Demo
