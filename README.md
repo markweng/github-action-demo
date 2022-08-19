@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "You only have to do a very few things right in your life so long as you don't do too many things wrong."
+💬 Quote of the Day: "Believe that life is worth living and your belief will help create the fact."
 <!-- end quote -->
 
 # GitHub Actions Demo
