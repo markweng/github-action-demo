@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Believe that life is worth living and your belief will help create the fact."
+💬 Quote of the Day: "If you want to become healthy, you have to surround yourself with a group of people that are getting healthy, and you have to be connected to a community that is doing what you want to do."
 <!-- end quote -->
 
 # GitHub Actions Demo
