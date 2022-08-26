@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "You can map your life through your favorite movies, and no two people's maps will be the same."
+💬 Quote of the Day: "I'm not naive. I realise that quality of life and income are inextricably bound together, but sooner or later we're going to have to ask ourselves whether it is possible to make life more meaningful without charging it to Visa."
 <!-- end quote -->
 
 # GitHub Actions Demo
