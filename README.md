@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Each player must accept the cards life deals him or her: but once they are in hand, he or she alone must decide how to play the cards in order to win the game."
+💬 Quote of the Day: "The art of living is more like wrestling than dancing."
 <!-- end quote -->
 
 # GitHub Actions Demo
