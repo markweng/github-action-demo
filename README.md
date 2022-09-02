@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life."
+💬 Quote of the Day: "In real life, it is the hare who wins. Every time. Look around you. And in any case it is my contention that Aesop was writing for the tortoise market. Hares have no time to read. They are too busy winning the game."
 <!-- end quote -->
 
 # GitHub Actions Demo
