@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Best thing you could probably do as a father is make sure they see how much you love their mother."
+💬 Quote of the Day: "Life is the childhood of our immortality."
 <!-- end quote -->
 
 # GitHub Actions Demo
