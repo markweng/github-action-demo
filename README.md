@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is the childhood of our immortality."
+💬 Quote of the Day: "Life is the continuous adjustment of internal relations to external relations."
 <!-- end quote -->
 
 # GitHub Actions Demo
