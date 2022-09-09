@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Who will tell whether one happy moment of love or the joy of breathing or walking on a bright morning and smelling the fresh air, is not worth all the suffering and effort which life implies."
+💬 Quote of the Day: "It's the simple things in life that are the most extraordinary; only wise men are able to understand them."
 <!-- end quote -->
 
 # GitHub Actions Demo
