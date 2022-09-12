@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is like a music. Just go with the flow, enjoy the rhythm. Feel the beat."
+💬 Quote of the Day: "Embrace the cracks in your life and the breaks in your heart as places into which divine light can shine."
 <!-- end quote -->
 
 # GitHub Actions Demo
