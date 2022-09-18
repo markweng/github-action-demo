@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Your emotions are the slaves to your thoughts, and you are the slave to your emotions."
+💬 Quote of the Day: "Our truest life is when we are in dreams awake."
 <!-- end quote -->
 
 # GitHub Actions Demo
