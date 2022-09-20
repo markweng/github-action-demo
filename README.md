@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Never waste your time trying to explain who you are to people who are committed to misunderstanding you."
+💬 Quote of the Day: "Things are not bad in themselves, but our cowardice makes them so."
 <!-- end quote -->
 
 # GitHub Actions Demo
