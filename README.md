@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Just because you can, doesn't mean you should. Or just because it's smart, doesn't mean it's right."
+💬 Quote of the Day: "Take a chance! All life is a chance. The man who goes furthest is generally the one who is willing to do and dare."
 <!-- end quote -->
 
 # GitHub Actions Demo
