@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is either a daring adventure or nothing."
+💬 Quote of the Day: "Every sentence I utter must be understood not as an affirmation, but as a question."
 <!-- end quote -->
 
 # GitHub Actions Demo
