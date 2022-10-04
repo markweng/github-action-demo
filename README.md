@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "If justice is removed.. The great, the immense fabric of human society.. Must in a moment crumble into atoms."
+💬 Quote of the Day: "You can't really be strong until you see a funny side to things."
 <!-- end quote -->
 
 # GitHub Actions Demo
