@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "While there's life, there's hope."
+💬 Quote of the Day: "To whom much is given, much is expected. I do believe this. It's embedded in me."
 <!-- end quote -->
 
 # GitHub Actions Demo
