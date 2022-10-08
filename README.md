@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "For most of my life, I believed that my father had broken many of my bones. They were emotional and psychological bones; things no one could see, things that caused me to limp through life clutching for and holding on to people and situations that often rendered me immobile."
+💬 Quote of the Day: "I hope that my story, I hope that my life is.. An encouragement for people, especially in Brooklyn. I feel humbled and blessed."
 <!-- end quote -->
 
 # GitHub Actions Demo
