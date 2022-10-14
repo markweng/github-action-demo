@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "To avoid criticism do nothing, say nothing, be nothing."
+💬 Quote of the Day: "You can map your life through your favorite movies, and no two people's maps will be the same."
 <!-- end quote -->
 
 # GitHub Actions Demo
