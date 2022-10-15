@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "You can map your life through your favorite movies, and no two people's maps will be the same."
+💬 Quote of the Day: "Life has meaning only if one barters it day by day for something other than itself."
 <!-- end quote -->
 
 # GitHub Actions Demo
