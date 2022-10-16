@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life has meaning only if one barters it day by day for something other than itself."
+💬 Quote of the Day: "I believe life is a series of near misses. A lot of what we ascribe to luck is not luck at all. It's seizing the day and accepting responsibility for your future. It's seeing what other people don't see And pursuing that vision."
 <!-- end quote -->
 
 # GitHub Actions Demo
