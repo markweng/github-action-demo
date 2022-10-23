@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I would rather live and love where death is king than have eternal life where love is not."
+💬 Quote of the Day: "If you have love in your life it can make up for a great many things you lack. If you don't have it, no matter what else there is, it's not enough."
 <!-- end quote -->
 
 # GitHub Actions Demo
