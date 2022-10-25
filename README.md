@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is like music, it must be composed by ear, feeling and instinct, not by rule. Nevertheless one had better know the rules, for they sometimes guide in doubtful cases, though not often."
+💬 Quote of the Day: "The world is going to need all of the different kinds of minds to work together."
 <!-- end quote -->
 
 # GitHub Actions Demo
