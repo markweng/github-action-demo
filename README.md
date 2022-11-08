@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Society is like a large piece of frozen water; and skating well is the great art of social life."
+💬 Quote of the Day: "You win some, lose some, and wreck some."
 <!-- end quote -->
 
 # GitHub Actions Demo
