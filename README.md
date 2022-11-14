@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "It's the simple things in life that are the most extraordinary; only wise men are able to understand them."
+💬 Quote of the Day: "Life is like playing a violin solo in public and learning the instrument as one goes on."
 <!-- end quote -->
 
 # GitHub Actions Demo
