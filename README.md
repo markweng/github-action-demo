@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Man's main task in life is to give birth to himself, to become what he potentially is. The most important product of his effort is his own personality."
+💬 Quote of the Day: "I believe that you're great, that there's something magnificent about you. Regardless of what has happened to you in your life, regardless of how young or how old you think you might be, the moment you begin to think properly, this something that is within you, this power within you that's greater than the world, it will begin to emerge. It will take over your life. It will feed you, it will clothe you, it will guide you, protect you, direct you, sustain your very existence. If you let it! Now that is what I know, for sure."
 <!-- end quote -->
 
 # GitHub Actions Demo
