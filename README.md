@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The grand essentials to happiness in this life are something to do, something to love and something to hope for."
+💬 Quote of the Day: "Faith is the first factor in a life devoted to service. Without it, nothing is possible. With it, nothing is impossible."
 <!-- end quote -->
 
 # GitHub Actions Demo
