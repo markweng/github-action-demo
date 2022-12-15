@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Faith is the first factor in a life devoted to service. Without it, nothing is possible. With it, nothing is impossible."
+💬 Quote of the Day: "Science can make man comfortable, but only wisdom can make man happy."
 <!-- end quote -->
 
 # GitHub Actions Demo
