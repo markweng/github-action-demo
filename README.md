@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I actually think happiness is the absence of suffering. It comes from peace. That comes from being careful about desire, judgment, and reaction."
+💬 Quote of the Day: "The moment we start weighing our every word, action and appearance on whether people will accept it is the moment we become their slave."
 <!-- end quote -->
 
 # GitHub Actions Demo
