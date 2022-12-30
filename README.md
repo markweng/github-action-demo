@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Never regret. If it's good, it's wonderful. If it's bad, it's experience."
+💬 Quote of the Day: "Make your interests gradually wider and more impersonal, until bit by bit the walls of the ego recede, and your life becomes increasingly merged in the universal life."
 <!-- end quote -->
 
 # GitHub Actions Demo
