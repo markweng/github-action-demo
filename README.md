@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "I would rather live and love where death is king than have eternal life where love is not."
+💬 Quote of the Day: "Love is the immortal flow of energy that nourishes, extends and preserves. Its eternal goal is life."
 <!-- end quote -->
 
 # GitHub Actions Demo
