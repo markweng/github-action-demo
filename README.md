@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is the art of drawing without an eraser."
+💬 Quote of the Day: "My father always used to say that when you die, if you've got five real friends, then you've had a great life."
 <!-- end quote -->
 
 # GitHub Actions Demo
