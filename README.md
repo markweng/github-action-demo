@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "If you get to my age in life and nobody thinks well of you, I don't care how big your bank account is, your life is a disaster."
+💬 Quote of the Day: "Of all the paths you take in life, make sure a few of them are dirt."
 <!-- end quote -->
 
 # GitHub Actions Demo
