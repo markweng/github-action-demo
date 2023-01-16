@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Of all the paths you take in life, make sure a few of them are dirt."
+💬 Quote of the Day: "When making your choice in life, do not neglect to live."
 <!-- end quote -->
 
 # GitHub Actions Demo
