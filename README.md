@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "When making your choice in life, do not neglect to live."
+💬 Quote of the Day: "The secret of success in life is for a man to be ready for his opportunity when it comes."
 <!-- end quote -->
 
 # GitHub Actions Demo
