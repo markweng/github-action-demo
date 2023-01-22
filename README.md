@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Not every day is going to offer us a chance to save somebody's life, but every day offers us an opportunity to affect one."
+💬 Quote of the Day: "Thinking should become your capital asset, no matter whatever ups and downs you come across in your life."
 <!-- end quote -->
 
 # GitHub Actions Demo
