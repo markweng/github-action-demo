@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Enjoy the little things, for one day you may look back and realize they were the big things."
+💬 Quote of the Day: "Life is the continuous adjustment of internal relations to external relations."
 <!-- end quote -->
 
 # GitHub Actions Demo
