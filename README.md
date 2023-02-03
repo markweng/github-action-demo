@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Things are not bad in themselves, but our cowardice makes them so."
+💬 Quote of the Day: "Reality is merely an illusion, albeit a very persistent one."
 <!-- end quote -->
 
 # GitHub Actions Demo
