@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "It's a shame that the only thing a man can do for eight hours a day is work. He can't eat for eight hours; he can't drink for eight hours; he can't make love for eight hours. The only thing a man can do for eight hours is work."
+💬 Quote of the Day: "Go after what it is that creates meaning in your life and then trust yourself to handle the stress that follows."
 <!-- end quote -->
 
 # GitHub Actions Demo
