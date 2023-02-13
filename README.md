@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The purpose of art is washing the dust of daily life off our souls."
+💬 Quote of the Day: "I actually think happiness is the absence of suffering. It comes from peace. That comes from being careful about desire, judgment, and reaction."
 <!-- end quote -->
 
 # GitHub Actions Demo
