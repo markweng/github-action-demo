@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Somewhere between the bottom of the climb and the summit is the answer to the mystery why we climb."
+💬 Quote of the Day: "The secret of success in life is for a man to be ready for his opportunity when it comes."
 <!-- end quote -->
 
 # GitHub Actions Demo
