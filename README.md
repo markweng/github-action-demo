@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Don't count the days; make the days count."
+💬 Quote of the Day: "Life is like a music. Just go with the flow, enjoy the rhythm. Feel the beat."
 <!-- end quote -->
 
 # GitHub Actions Demo
