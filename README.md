@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "We do need each other. It's lonely to really effectively live your life, and anyone you can give help to, or get help from, that's part of your obligation."
+💬 Quote of the Day: "It is those of us who have been broken that become experts at mending."
 <!-- end quote -->
 
 # GitHub Actions Demo
