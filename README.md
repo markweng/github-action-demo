@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "It is those of us who have been broken that become experts at mending."
+💬 Quote of the Day: "People say I've had a difficult time in life. I think I've had an exciting time in life."
 <!-- end quote -->
 
 # GitHub Actions Demo
