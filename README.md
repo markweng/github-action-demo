@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "Life is half spent before we know what it is."
+💬 Quote of the Day: "You only have to do a very few things right in your life so long as you don't do too many things wrong."
 <!-- end quote -->
 
 # GitHub Actions Demo
