@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "This I conceive to be the chemical function of humor: to change the character of our thought."
+💬 Quote of the Day: "I hope that my story, I hope that my life is.. An encouragement for people, especially in Brooklyn. I feel humbled and blessed."
 <!-- end quote -->
 
 # GitHub Actions Demo
