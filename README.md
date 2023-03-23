@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The existential vacuum manifests itself mainly in a state of boredom."
+💬 Quote of the Day: "We have an unlimited ability to ignore our ignorance."
 <!-- end quote -->
 
 # GitHub Actions Demo
