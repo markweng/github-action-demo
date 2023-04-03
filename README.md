@@ -2,7 +2,7 @@
 ![status](https://github.com/victoria-lo/github-action-demo/actions/workflows/qotd.yml/badge.svg)
 
 <!-- start quote -->
-💬 Quote of the Day: "The purpose of art is washing the dust of daily life off our souls."
+💬 Quote of the Day: "Forget regret, or life is yours to miss."
 <!-- end quote -->
 
 # GitHub Actions Demo
